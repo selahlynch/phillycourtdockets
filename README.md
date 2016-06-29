@@ -12,9 +12,6 @@ CP-51-CR-######-2015
 
 He's interested in searching through these for all kinds of potential articles, so getting the text into a database with some metadata seems like it would be really helpful and then one could do all kinds of things.
 
-Has a friend who wrote some similar code:
-http://pastebin.com/C7M96KUN
-
 
 ## TODO
 * create an AWS server with a MySQL database

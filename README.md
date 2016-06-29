@@ -12,6 +12,8 @@ CP-51-CR-######-2015
 
 He's interested in searching through these for all kinds of potential articles, so getting the text into a database with some metadata seems like it would be really helpful and then one could do all kinds of things.
 
+NOTE - ipad app, PAeDocket exists for searching court dockets... make sure I'm not just duplicating things
+https://itunes.apple.com/us/app/paedocket/id943932164?mt=8
 
 ## TODO
 * create an AWS server with a MySQL database

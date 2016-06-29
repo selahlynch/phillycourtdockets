@@ -18,5 +18,5 @@ http://pastebin.com/C7M96KUN
 
 ## TODO
 * create an AWS server with a MySQL database
-* read ~5 dockets into the MySQL database... raw text only
+* read ~5 dockets into the MySQL database... docket number and raw text from "Charges" section.
 

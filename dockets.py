@@ -1,3 +1,7 @@
+## NOTE - I installed the pdfminer package first by following instructions
+# at this site: http://euske.github.io/pdfminer/index.html
+
+
 import requests
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfparser import PDFParser

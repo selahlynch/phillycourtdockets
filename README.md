@@ -6,6 +6,8 @@ https://ujsportal.pacourts.us/DocketSheets/CP.aspx
 
 For example:
 https://ujsportal.pacourts.us/DocketSheets/CPReport.ashx?docketNumber=CP-51-CR-0000862-2013
+https://ujsportal.pacourts.us/DocketSheets/CPReport.ashx?docketNumber=CP-51-CR-0000863-2013
+https://ujsportal.pacourts.us/DocketSheets/CPReport.ashx?docketNumber=CP-51-CR-0000864-2013
 
 Ryan Briggs, Philadelphia journalist, is particularly interested in the ~15k dockets with the numbers
 CP-51-CR-######-2015
